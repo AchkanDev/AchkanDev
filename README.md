@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashkan%20|%20AchkanDev&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashkan%20%7C%20AchkanDev&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=62&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Firebase+Expert+%F0%9F%94%A5;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;Building+Beautiful+Mobile+Apps+%F0%9F%93%B1;826%2B+Contributions+%26+Counting+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=Flutter+%26+Dart+Developer;Firebase+Expert;Clean+Architecture+Advocate;Building+Beautiful+Mobile+Apps;826%2B+Contributions+%26+Counting)](https://git.io/typing-svg)
 
 </div>
 
