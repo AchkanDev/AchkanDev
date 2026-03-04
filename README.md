@@ -61,6 +61,7 @@ class AchkanDev {
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=dart&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-1a73e8?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -103,12 +104,120 @@ class AchkanDev {
 
 ## 🚀 Featured Projects
 
+---
+
+### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-1a73e8?style=flat-square&logo=flutter&logoColor=white)
+![Published](https://img.shields.io/badge/Published-CafeBazaar%20%7C%20Myket-0069d9?style=flat-square&logo=android&logoColor=white)
+![Rating](https://img.shields.io/badge/Rating-5%2F5%20⭐-gold?style=flat-square)
+
+> Connects citizens with verified lawyers + AI legal assistant + lawyer smart office — cross-platform.
+
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/weekilaw-showcase/main/screenshots/screen1.webp" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/weekilaw-showcase/main/screenshots/screen2.webp" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/weekilaw-showcase/main/screenshots/screen3.webp" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/weekilaw-showcase/main/screenshots/screen4.webp" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/weekilaw-showcase/main/screenshots/screen5.webp" width="160"/> |
+
+🔗 [**View Showcase →**](https://github.com/AchkanDev/weekilaw-showcase) &nbsp; | &nbsp; 📲 [CafeBazaar](https://cafebazaar.ir/app/com.pqlian.weekilaw) &nbsp; | &nbsp; 📲 [Myket](https://myket.ir/app/com.pqlian.weekilaw)
+
+</div>
+
+---
+
+### 🕌 مبین (Mobin) — Spiritual Companion App
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Published](https://img.shields.io/badge/Published-CafeBazaar-1a8a3a?style=flat-square&logo=android&logoColor=white)
+![Installs](https://img.shields.io/badge/Installs-1500%2B-27ae60?style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-5%2F5%20⭐-gold?style=flat-square)
+
+> Daily prayers, Qibla direction, prayer times, Dhikr counter & more. Published with 1,500+ installs.
+
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen1.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen2.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen3.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen4.jpg" width="160"/> |
+| <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen5.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen6.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen7.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/mobin-app-showcase/main/screenshots/screen8.jpg" width="160"/> |
+
+🔗 [**View Showcase →**](https://github.com/AchkanDev/mobin-app-showcase) &nbsp; | &nbsp; 📲 [CafeBazaar](https://cafebazaar.ir/app/?id=ir.mobinapp.mainapp)
+
+</div>
+
+---
+
+### 💡 Yariex — Modern Flutter App · Clean Architecture
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square&logo=flutter&logoColor=white)
+
+> Feature-rich Flutter application with modern UI, real-time Firebase backend & Clean Architecture.
+
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/yariex-showcase/main/screenshots/photo_2023-11-21_10-37-41.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/yariex-showcase/main/screenshots/photo_2023-11-21_11-09-23.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/yariex-showcase/main/screenshots/photo_2023-11-21_11-14-05.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/yariex-showcase/main/screenshots/photo_2023-12-09_13-30-04.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/yariex-showcase/main/screenshots/photo_2024-01-01_10-38-52.jpg" width="160"/> |
+
+🔗 [**View Showcase →**](https://github.com/AchkanDev/yariex-showcase)
+
+</div>
+
+---
+
+### 📸 Instagram Clone — Full-Stack Flutter + Firebase
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-F57C00?style=flat-square&logo=firebase&logoColor=white)
+
+> Full clone with real-time feed, likes, comments, DMs, user profiles & Firebase Auth.
+
+| Feed | Profile | Post | Stories |
+|:----:|:-------:|:----:|:-------:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/Instagram_with_fireBase/main/screenshots/photo_2023-09-15_23-20-48.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/Instagram_with_fireBase/main/screenshots/photo_2023-09-15_23-20-49.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/Instagram_with_fireBase/main/screenshots/photo_2023-09-15_23-20-49 (2).jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/Instagram_with_fireBase/main/screenshots/photo_2023-09-15_23-20-49 (3).jpg" width="160"/> |
+
+🔗 [**View on GitHub →**](https://github.com/AchkanDev/Instagram_with_fireBase)
+
+</div>
+
+---
+
+### 👟 Nike Store — Premium E-Commerce Flutter App
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Pixel_Perfect-FF0000?style=flat-square&logo=figma&logoColor=white)
+
+> Beautifully crafted Nike-inspired shoe store with smooth animations & complete shopping flow.
+
+| Home | Listing | Detail | Cart |
+|:----:|:-------:|:------:|:----:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/Nike_store/main/screenshots/photo_2023-09-15_23-20-50.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/Nike_store/main/screenshots/photo_2023-09-15_23-20-50 (2).jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/Nike_store/main/screenshots/photo_2023-09-15_23-20-50 (3).jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/Nike_store/main/screenshots/photo_2023-09-15_23-20-52.jpg" width="160"/> |
+
+🔗 [**View on GitHub →**](https://github.com/AchkanDev/Nike_store)
+
+</div>
+
+---
+
+### 🗂️ More Repositories
+
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📸 Instagram with Firebase](https://github.com/AchkanDev/Instagram_with_fireBase) | Full Instagram clone with real-time features | Flutter · Firebase · Firestore |
-| [👟 Nike Store](https://github.com/AchkanDev/Nike_store) | E-commerce app with beautiful UI | Flutter · Dart |
 | [👤 Profile Application](https://github.com/AchkanDev/ProfileApplication) | Interactive profile & portfolio app | Flutter · Dart |
 | [✅ To-Do List](https://github.com/AchkanDev/To_Do_List) | Clean task management with local persistence | Flutter · Dart |
 | [🖥️ Work with Server](https://github.com/AchkanDev/work_with_server) | REST API integration patterns | Flutter · HTTP |
