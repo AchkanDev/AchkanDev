@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img alt="Flutter Dev GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360" />
+<img alt="Flutter Dev GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
 
 </div>
 
@@ -107,6 +107,28 @@ class AchkanDev {
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🎮 فریم سنج (FrameSanj) — PC Game Compatibility & Performance Analyzer
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Publishing](https://img.shields.io/badge/Publishing-CafeBazaar%20%7C%20Myket-0069d9?style=flat-square&logo=android&logoColor=white)
+
+> Offline PC game compatibility & FPS estimator — search games, compare your CPU/GPU/RAM with minimum & recommended requirements, and get suggested quality + FPS.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_01_splash.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_02_onboard1.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_03_onboard2.png" width="160"/> |
+| <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_04_onboard3.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_08_games.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_09_filter.png" width="160"/> |
+| <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_05_specs.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_06_result1.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_07_result2.png" width="160"/> |
+
+🔗 [**View Showcase →**](https://github.com/AchkanDev/gamegauge-showcase) &nbsp; | &nbsp; 📲 CafeBazaar: — &nbsp; | &nbsp; 📲 Myket: —
+
+</div>
 
 ---
 
