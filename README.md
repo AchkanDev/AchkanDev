@@ -12,7 +12,11 @@
 
 ---
 
-<img align="right" alt="Flutter Dev GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360" />
+<div align="center">
+
+<img alt="Flutter Dev GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360" />
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -103,6 +107,27 @@ class AchkanDev {
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🔤 واژه جو (VazheJoo) — Persian Offline Word Finder
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Publishing](https://img.shields.io/badge/Publishing-CafeBazaar%20%7C%20Myket-0069d9?style=flat-square&logo=android&logoColor=white)
+
+> Persian offline word finder to discover hidden words using Persian letters.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/store_screenshot_1.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/store_screenshot_2.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_03_result_4.png" width="160"/> |
+| <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_04_golden.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_06_result_8.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_01_splash.png" width="160"/> |
+
+🔗 [**View Showcase →**](https://github.com/AchkanDev/vazhejoo-showcase) &nbsp; | &nbsp; 📲 CafeBazaar: — &nbsp; | &nbsp; 📲 Myket: —
+
+</div>
 
 ---
 
