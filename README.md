@@ -107,12 +107,12 @@ class AchkanDev {
 ---
 
 ## 🚀 Featured Projects
-
+<!-- 
 ---
 
 ### 🎮 فریم سنج (FrameSanj) — PC Game Compatibility & Performance Analyzer
 
-<div align="center">
+<div align="center"> 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -150,7 +150,7 @@ class AchkanDev {
 🔗 [**View Showcase →**](https://github.com/AchkanDev/vazhejoo-showcase) &nbsp; | &nbsp; 📲 [CafeBazaar](https://cafebazaar.ir/app/com.achkandev.vazhejoo) &nbsp; | &nbsp; 📲 [Myket](https://myket.ir/app/com.achkandev.vazhejoo)
 
 </div>
-
+-->
 ---
 
 ### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
