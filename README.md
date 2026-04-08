@@ -147,7 +147,7 @@ class AchkanDev {
 | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/store_screenshot_1.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/store_screenshot_2.jpg" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_03_result_4.png" width="160"/> |
 | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_04_golden.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_06_result_8.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/vazhejoo-showcase/main/screenshots/screenshot_01_splash.png" width="160"/> |
 
-🔗 [**View Showcase →**](https://github.com/AchkanDev/vazhejoo-showcase) &nbsp; | &nbsp; 📲 CafeBazaar: — &nbsp; | &nbsp; 📲 Myket: —
+🔗 [**View Showcase →**](https://github.com/AchkanDev/vazhejoo-showcase) &nbsp; | &nbsp; 📲 [CafeBazaar](https://cafebazaar.ir/app/com.achkandev.vazhejoo) &nbsp; | &nbsp; 📲 [Myket](https://myket.ir/app/com.achkandev.vazhejoo)
 
 </div>
 
