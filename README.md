@@ -153,6 +153,29 @@ class AchkanDev {
 -->
 ---
 
+### ✅ ردیاب عادت (Habit Tracker) — Persian Habit Tracking App
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square&logo=flutter&logoColor=white)
+![Publishing](https://img.shields.io/badge/Publishing-CafeBazaar%20%7C%20Myket-0069d9?style=flat-square&logo=android&logoColor=white)
+
+> Persian habit tracker with onboarding, daily workflow, smart reminders, edit/create flows, and advanced weekly + 12-week analytics.
+
+| | | |
+|:--:|:--:|:--:|
+| <img src="assets/habit-tracker/ss_04_splash.png" width="160"/> | <img src="assets/habit-tracker/ss_01_onboard1.png" width="160"/> | <img src="assets/habit-tracker/ss_02_onboard2.png" width="160"/> |
+| <img src="assets/habit-tracker/ss_03_onboard3.png" width="160"/> | <img src="assets/habit-tracker/ss_05_home.png" width="160"/> | <img src="assets/habit-tracker/ss_06_create.png" width="160"/> |
+| <img src="assets/habit-tracker/ss_07_edit.png" width="160"/> | <img src="assets/habit-tracker/ss_08_stats1.png" width="160"/> | <img src="assets/habit-tracker/ss_09_stats2.png" width="160"/> |
+
+🔗 [**View Showcase (Private for now) →**](https://github.com/AchkanDev/habit-tracker-showcase)
+
+</div>
+
+---
+
 ### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
 
 <div align="center">
