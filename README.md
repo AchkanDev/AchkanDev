@@ -150,7 +150,7 @@ class AchkanDev {
 🔗 [**View Showcase →**](https://github.com/AchkanDev/vazhejoo-showcase) &nbsp; | &nbsp; 📲 [CafeBazaar](https://cafebazaar.ir/app/com.achkandev.vazhejoo) &nbsp; | &nbsp; 📲 [Myket](https://myket.ir/app/com.achkandev.vazhejoo)
 
 </div>
--->
+
 ---
 
 ### ✅ ردیاب عادت (Habit Tracker) — Persian Habit Tracking App
@@ -173,7 +173,7 @@ class AchkanDev {
 🔗 [**View Showcase (Private for now) →**](https://github.com/AchkanDev/habit-tracker-showcase)
 
 </div>
-
+-->
 ---
 
 ### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
