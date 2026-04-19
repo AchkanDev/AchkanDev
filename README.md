@@ -107,7 +107,7 @@ class AchkanDev {
 ---
 
 ## 🚀 Featured Projects
-<!-- 
+
 ---
 
 ### 🎮 فریم سنج (FrameSanj) — PC Game Compatibility & Performance Analyzer
@@ -173,7 +173,7 @@ class AchkanDev {
 🔗 [**View Showcase (Private for now) →**](https://github.com/AchkanDev/habit-tracker-showcase)
 
 </div>
--->
+
 ---
 
 ### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
