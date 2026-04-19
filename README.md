@@ -152,7 +152,7 @@ class AchkanDev {
 </div>
 
 ---
-
+<!--
 ### ✅ ردیاب عادت (Habit Tracker) — Persian Habit Tracking App
 
 <div align="center">
@@ -173,7 +173,7 @@ class AchkanDev {
 🔗 [**View Showcase (Private for now) →**](https://github.com/AchkanDev/habit-tracker-showcase)
 
 </div>
-
+-->
 ---
 
 ### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
