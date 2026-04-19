@@ -126,7 +126,7 @@ class AchkanDev {
 | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_04_onboard3.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_08_games.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_09_filter.png" width="160"/> |
 | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_05_specs.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_06_result1.png" width="160"/> | <img src="https://raw.githubusercontent.com/AchkanDev/gamegauge-showcase/main/screenshots/ss_07_result2.png" width="160"/> |
 
-🔗 [**View Showcase →**](https://github.com/AchkanDev/gamegauge-showcase) &nbsp; | &nbsp; 📲 CafeBazaar: — &nbsp; | &nbsp; 📲 Myket: —
+🔗 [**View Showcase →**](https://github.com/AchkanDev/gamegauge-showcase) &nbsp; | &nbsp; 📲 [CafeBazaar](https://cafebazaar.ir/app/com.example.game_guge) &nbsp; | &nbsp; 📲 [Myket](https://myket.ir/app/com.example.game_guge)
 
 </div>
 
@@ -151,7 +151,7 @@ class AchkanDev {
 
 </div>
 
----
+
 <!--
 ### ✅ ردیاب عادت (Habit Tracker) — Persian Habit Tracking App
 
@@ -174,7 +174,7 @@ class AchkanDev {
 
 </div>
 -->
----
+
 
 ### ⚖️ ویکیلا (WeekiLaw) — AI-Powered Legal Services Platform
 
